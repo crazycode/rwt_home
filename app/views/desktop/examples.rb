@@ -9,6 +9,7 @@ rwt_app do
     menu('Simple tests') do
       menu_item('Simple window',call_view("/test/win_test"))
       menu_item('Inline code',call_view("/test/inline_test"))
+      menu_item('Contacts',call_view("/contacts_rwt"))
     end
     menu('Forms') do
       menu('Dynamic Forms') do
