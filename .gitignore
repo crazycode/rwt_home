@@ -1,9 +1,10 @@
 nbproject
 lib
-public/ext
 *.zip
 vendor
 log
 bck.rb
 bckw.rb
+db/schema.rb
+db/*.sqlite3
 *.*~

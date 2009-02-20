@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/rwt"]
+	path = vendor/plugins/rwt
+	url = git://github.com/smbrant/rwt.git
